@@ -1,1 +1,1 @@
-# nopCommerce-Testing
+# nopCommerce2-Testing
